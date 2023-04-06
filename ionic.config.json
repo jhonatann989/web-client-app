@@ -1,0 +1,8 @@
+{
+  "name": "web-client-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "64c666ab"
+}
